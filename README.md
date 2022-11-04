@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paresh5505
-- 👀 I’m interested in Business.
-- 🌱 I’m currently learning Basic python and Data Analytics.
+- 👀 I’m interested in Business,Development.
+- 🌱 I’m currently learned core java , sql , html , css.
 - 💞️ I’m looking to collaborate with all biggest brands.
 - 📫 How to reach me by my mail pareshlondhe90@gmail.com.
 
